@@ -5,6 +5,7 @@ A Calculator is a small electronic device used to perform various arithmetic ope
 
 
 
+![1](https://user-images.githubusercontent.com/55504490/142426437-34abc449-631d-4400-89e1-4d8a9b737276.jpg)
 
 
 
